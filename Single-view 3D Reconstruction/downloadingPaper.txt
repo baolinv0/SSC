@@ -1,0 +1,27 @@
+
+cite  Semantic Scene Completion from a Single Depth Image
+
+International Journal of Computer Vision
+What Makes Good Synthetic Training Data for Learning Disparity and Optical Flow Estimation?
+3D Interpreter Networks for Viewer-Centered Wireframe Modeling
+Configurable 3D Scene Synthesis and 2D Image Rendering with Per-pixel Ground Truth Using Stochastic Grammars
+
+
+Peeking Behind Objects: Layered Depth Prediction from a Single Image
+Learning 3D Scene Semantics and Structure from a Single Depth Image
+
+
+Coupling Point Cloud Completion and Surface Connectivity Relation Inference for 3D Modeling of Indoor Building Environments
+
+Kinect Depth Map Inpainting using a Multi-Scale Deep Convolutional Neural Network
+
+https://arxiv.org/pdf/1806.05361.pdf
+Deep Generative Modeling for Scene Synthesis via Hybrid Representations
+Learning Intrinsic Image Decomposition from Watching the World
+Depth-aware CNN for RGB-D Segmentation
+Peeking Behind Objects: Layered Depth Prediction from a Single Image
+
+
+
+single view reconstruction
+http://www.stat.ucla.edu/~sczhu/papers/TPAMI_Single_View_3D_Reconstruction.pdf
